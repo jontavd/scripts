@@ -61,45 +61,24 @@ rvm install ruby
 #### SDK Man - https://sdkman.io/install
 ```
 sdk install java 11.0.20.1-tem
+```
 
 ### VS Code
 1. Install
-2. Configure Github account & Sync
+1. Configure Github account & Sync
 
-* Jetbrains toolbox - https://www.jetbrains.com/toolbox-app/
-    * WebStorm
-        * Sync / Copilot
-    * IntelliJ Ultimate
-        * Sync / Copilot
-* VS Code
-    * sync
-* github
-    * 
-    * 
+### Jetbrains toolbox - https://www.jetbrains.com/toolbox-app/
+#### WebStorm
+1. Sync
+2. Copilot
 
-git config --global user.name "Jonatan Dutra"
+#### IntelliJ Ultimate
+1. Sync
+2. Copilot
 
-eval "$(ssh-agent -s)"
+***
 
-touch ~/.ssh/config
-vim ~/.ssh/config
-
-Host *.github.com
-AddKeysToAgent yes
-UseKeychain yes
-IdentityFile ~/.ssh/id_ed25519
-
-Host gitlab.com
-AddKeysToAgent yes
-UseKeychain yes
-IdentityFile ~/.ssh/id_ed25519
-
-pbcopy < ~/.ssh/id_ed25519.pub
-
-
-
-
-Reference
+## Reference
 
 Mac Apps
 
