@@ -6,6 +6,6 @@ filebot -rename -r * --db TheMovieDB::TV -non-strict --format "{plex.id}" --appl
 
 2. Get Subtitles
 ```
-filebot -get-subtitles * -non-strict --lang Brazilian
-filebot -get-subtitles * -non-strict
+filebot -get-subtitles -r * -non-strict --lang Brazilian
+filebot -get-subtitles -r * -non-strict
 ```
