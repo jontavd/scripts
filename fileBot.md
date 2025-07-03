@@ -8,6 +8,7 @@ filebot -rename * --db TheMovieDB -non-strict --format "{plex.id}" --apply refre
 
 2. Get Subtitles
 ```
+filebot -get-subtitles -r * --lang Brazilian
 filebot -get-subtitles -r * -non-strict --lang Brazilian
 filebot -get-subtitles -r * -non-strict
 ```
