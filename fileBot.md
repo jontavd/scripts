@@ -21,6 +21,12 @@ filebot -get-subtitles -r *.mp4 --lang Brazilian
 filebot -get-subtitles -r * -non-strict --lang Brazilian
 ```
 ```
+filebot -get-subtitles -r *.mkv -non-strict --lang Brazilian
+```
+```
+filebot -get-subtitles -r *.mp4 -non-strict --lang Brazilian
+```
+```
 filebot -get-subtitles -r * -non-strict
 ```
 
