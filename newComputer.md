@@ -9,10 +9,6 @@
 ## Firefox  / Chrome
 1. Config user
 1. Config default zoom (80%
-1. Install & Configure 1Pass extension
-
-## Edge
-1. Config Sync
 
 ## Office365
 1. MS Word
@@ -31,10 +27,6 @@
 
 ## Hourly
 ### https://apps.apple.com/br/app/hour-world-clock/id569089415
-
-## SpeedTest
-
-## Surfshark
 
 ## System Setting Configuration
 1. Notifications
@@ -67,14 +59,6 @@ sdk install java 11.0.20.1-tem
 1. Install
 1. Configure Github account & Sync
 
-### Jetbrains toolbox - https://www.jetbrains.com/toolbox-app/
-#### WebStorm
-1. Sync
-2. Copilot
-
-#### IntelliJ Ultimate
-1. Sync
-2. Copilot
 
 ***
 
